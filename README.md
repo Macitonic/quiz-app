@@ -1,16 +1,8 @@
-# 🧠 React Quiz App
+## React Quiz App
 
 A simple and interactive quiz application built with React and Vite.
 
-## 🚀 Live Demo
-
-> _(Optional: Add a link if you deploy it on Netlify, Vercel, or GitHub Pages.)_
-
-## 📸 Screenshot
-
-> _(Optional: Add a screenshot of your quiz UI here.)_
-
-## ✨ Features
+## Features
 
 - Multiple choice questions
 - Navigation between questions
@@ -23,8 +15,6 @@ A simple and interactive quiz application built with React and Vite.
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - CSS3 (for styling)
-
-## 📁 Project Structure
 
 # quiz-app
 react project
